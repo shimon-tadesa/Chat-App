@@ -15,7 +15,7 @@ const renderMessages = () => {
 renderMessages();
 return(
     <div>
-        ChatFeedd
+        ChatFeeddd
     </div>
 );
 }
